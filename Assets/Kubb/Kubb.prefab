@@ -29,7 +29,7 @@ GameObject:
   - component: {fileID: 114000222302888734}
   - component: {fileID: 114334107569527978}
   - component: {fileID: 114181576453505020}
-  m_Layer: 8
+  m_Layer: 23
   m_Name: Kubb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,7 +137,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 40
+  MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -255,7 +255,7 @@ MonoBehaviour:
     TriggerIndividuals: 1
     Layers:
       serializedVersion: 2
-      m_Bits: 256
+      m_Bits: 12585472
     Repeat: 0
     LowPeriodTime: 0
     HighPeriodTime: 0
